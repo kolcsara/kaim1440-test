@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "Text B" 
 this is in branch1
+=======
+Text BB
+this is in master
+>>>>>>> f34e8e694013c02ea652582b5ac5b528d92affbd
